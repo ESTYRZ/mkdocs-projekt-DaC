@@ -9,4 +9,14 @@ Um eine Aufgabe zu erstellen, öffnen Sie die Aufgabenverwaltung und führen fol
     
 1. Klicken Sie auf erstellen unten rechts
 
+!!! note "Titel für die Warnung"
+
+    Mein Fließtext für meine Warnung sagt: Vorsicht, Vorsicht, Vorsicht.
+
+Collapsible Admonition:
+
+??? note "Titel für die Warnung (ausklappbar)"
+
+    Mein Fließtext für meine Warnung sagt: Vorsicht, Vorsicht, Vorsicht.
+
 Nun sehen Sie die erstellte Aufgabe in der Übersicht der Aufgabenverwaltung.
