@@ -1,0 +1,7 @@
+# Erfassungsarten
+
+| Erfassungsart                        | Beschreibung                                                                                                                                                                                                     |
+|--------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Initialschätzung setzen              | Hier kann die Initialschätzung eingetragen werden <ul><li>4d = 4 Tage </li> <li>4h = 4 Stunden</li> <li>4m = 4 Minuten</li> <li>4s = 4 Sekunden</li>  <br>**Beispiel**: 3d 4h 30m  <br>**Tipp**: Zeiten, die nicht benötigt werden, kannst du einfach weglassen** |
+| IstStunden erfassen                  | Vorgehen gleich der Initialschätzung: Siehe oben.                                                                                                                                                                |
+| Verbleibende Zeit / Defizit erfassen | Die verbleibende Zeit wird als Delta aus Initialschätzung abzüglich der IST-Erfassung berechnet.  Hinweis: Die Initialschätzung kann auch überzogen werden, so dass ein Defizit in der Zeiterfassung entsteht.   |
